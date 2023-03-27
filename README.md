@@ -2,15 +2,15 @@
 
 ### I'm Simone Ponzani,
 
-<h4><strong>I'm a Junior Full-Stack Developer from Italy.</strong></h4> <br> <br> 
+<h3><strong>I'm a Junior Full-Stack Developer from Italy.</strong></h3> <br> <br> 
 
 - 📫 How to reach me: simone.ponzani@libero.it
 
 <div align="left">
  <hr>
-<h4>About me:</h4>  <br> <br> 
+<h4>About me:</h4>  <br> 
 
-i m a fun of technology and for this reason a i attended a full-time advanced training course for to acquire a solid knowledge about several languages  for web development.
+I'm a fun of technology and for this reason a i attended a full-time advanced training course for to acquire a solid knowledge about several languages  for web development.
 I would like to apply what I have learned, for growing professionally.
 </div>
 
@@ -18,7 +18,7 @@ I would like to apply what I have learned, for growing professionally.
  <hr>
 <h4> :hammer_and_wrench: LANGUAGES AND TOOLS </h4>
 </div>
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html5" alt="hmlt" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="Js" width="40" height="40"/>&nbsp;
