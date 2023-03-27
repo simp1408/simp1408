@@ -2,7 +2,7 @@
 
 ### I'm Simone Ponzani,
 
-<h3><strong>I'm a Junior Full-Stack Developer from Italy.</strong></h3> <br> <br> 
+<h3><strong>I'm a Junior Full-Stack Developer from Italy.</strong></h3> <br> 
 
 - 📫 How to reach me: simone.ponzani@libero.it
 
@@ -12,6 +12,7 @@
 
 I'm a fun of technology and for this reason a i attended a full-time advanced training course for to acquire a solid knowledge about several languages  for web development.
 I would like to apply what I have learned, for growing professionally.
+ <br>
 </div>
 
 <div align="center">
